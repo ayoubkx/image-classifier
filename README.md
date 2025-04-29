@@ -1,6 +1,5 @@
 # image-classifier
-#### Overview
-Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
+
 
 #### Install
 This project requires Python 2.7 and the following Python libraries installed:
@@ -15,7 +14,7 @@ This project requires Python 2.7 and the following Python libraries installed:
 We recommend students install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 #### Run
-In a terminal or command window, navigate to the top-level project directory / (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
 
 ipython notebook Image Classifier Project.ipynb or
 
